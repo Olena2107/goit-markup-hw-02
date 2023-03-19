@@ -4,8 +4,10 @@
 }
 
 body {
+
   font-family: "Roboto", sans-serif;
-  color-bgn: #e5e5e5;
+ color:#434455;
+  background-color: #FFFFFF;
 }
 .list {
   list-style: none;
@@ -16,6 +18,7 @@ body {
 }
 .link:focus, .link:hover{
     opacity: 1;
+    color: #404bbf 
 }
 /--Header--/
  .header {
@@ -63,8 +66,10 @@ body {
   letter-spacing: 0.02em;
   color: var(--main-title-color);
 }
+.header-address {
+    font-style: normal;
+    }
 .header-mail {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -72,7 +77,6 @@ body {
   color: #434455;
 }
 .header-phone {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
