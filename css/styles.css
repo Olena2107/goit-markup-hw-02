@@ -1,6 +1,8 @@
 :root {
     --main-title-color: #2e2f42;
     --background-color:#2E2F42;
+    --ocean-bgc-hover-focus-active-color: #404bbf1c;
+
 
 }
 
@@ -113,9 +115,11 @@ background-color:var(--background-color);
   cursor: pointer;
   border: transparent;
 }
-.hero-btn:hover,
+.hero-btn:hover {
+background-color: var(--ocean-bgc-hover-focus-active-color)
+ };
 .hero-btn:focus {
-background-color: #404bbf1c;
+background-color: var(--ocean-bgc-hover-focus-active-color)
 }
 .
 /--ABOUT--/
@@ -270,7 +274,7 @@ background-color: #404BBF
 
 }
 .services-item {
-    
+
 }
 .services-title {
     font-weight: 500;
