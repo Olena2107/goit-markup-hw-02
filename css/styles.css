@@ -14,7 +14,6 @@ body {
 }
 .link {
   text-decoration: none;
-  color: navy;
 }
 .link:focus, 
 .link:hover{
@@ -90,7 +89,7 @@ opacity: 1
 }
 /----HERO-----
 .hero {
-background-color:#2e2f42
+background-color:var(--background-color);
 }
 .hero-item {
   font-weight: 700;
@@ -268,7 +267,7 @@ background-color: #404BBF
 
 }
 .services-link{
-    
+
 }
 .services-title {
     font-weight: 500;
