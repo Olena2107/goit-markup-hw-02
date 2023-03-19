@@ -1,5 +1,6 @@
 :root {
-    --main-title-color: #2e2f42
+    --main-title-color: #2e2f42;
+    --background-color:#2E2F42;
 
 }
 
@@ -89,7 +90,7 @@ opacity: 1
 }
 /----HERO-----
 .hero {
-background-color: #2e2f42 ;
+background-color:var(--background-color)
 }
 .hero-item {
   font-weight: 700;
@@ -196,7 +197,7 @@ background-color: #FFFFFF
 }
 /--FOOTER--/
 .footer {
-background-color: #2E2F42;
+background-color: var(--background-color)
 }
 .footer-logo {
 font-family: 'Raleway', sans-serif;
