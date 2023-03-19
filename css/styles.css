@@ -88,7 +88,7 @@ opacity: 1
   color: #434455;
 }
 /----HERO-----
- .hero {
+.hero {
 background-color: #2e2f42 ;
 }
 .hero-item {
@@ -157,7 +157,10 @@ cursor: pointer;
 }
 /--TEAM--/
 .team {
-background-color: #F4F4FD
+
+}
+.team-list {
+background-color: #F4F4FD 
 }
 .team-title {
 font-weight: 700;
