@@ -90,7 +90,7 @@ opacity: 1
 }
 /----HERO-----
 .hero {
-background-color:var(--background-color)
+background-color:#2e2f42
 }
 .hero-item {
   font-weight: 700;
@@ -99,8 +99,6 @@ background-color:var(--background-color)
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
-  cursor: pointer;
-  background-color: #2e2f42 ;
 }
 .hero-btn {
   font-family: inherit;
@@ -118,7 +116,7 @@ background-color:var(--background-color)
 }
 .hero-btn:hover,
 .hero-btn:focus {
-color:  #404bbf1c;
+background-color: #404bbf1c;
 }
 .
 /--ABOUT--/
