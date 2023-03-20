@@ -162,6 +162,9 @@ cursor: pointer;
 .team {
 background-color: #F4F4FD 
 }
+.team-personal {
+background-color: #FFFFFF; 
+}
 
 .team-title {
 font-weight: 700;
