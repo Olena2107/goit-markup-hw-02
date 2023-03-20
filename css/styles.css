@@ -22,7 +22,7 @@ body {
 color: #404bbf;
 opacity: 1
 }
-/--Header--/
+/*/--Header--*/
  .header {
 }
 .header-navigation {
@@ -89,7 +89,7 @@ opacity: 1
   letter-spacing: 0.02em;
   color: #434455;
 }
-/----HERO-----
+/*/----HERO-----*/
 .hero {
 background-color:var(--background-color);
 }
@@ -121,8 +121,8 @@ background-color: var(--ocean-bgc-hover-focus-active-color)
 .hero-btn:focus {
 background-color: var(--ocean-bgc-hover-focus-active-color)
 }
-.
-/--ABOUT--/
+
+/*/--ABOUT--*/
 .about-us {
 }
 .about-list {
@@ -143,7 +143,7 @@ letter-spacing: 0.02em;
 color: #434455;
 cursor: pointer;
 }
-/--WHAT--/
+/*/--WHAT--*/
 .what {
 }
 .what-title {
@@ -158,7 +158,7 @@ cursor: pointer;
 }
 .what-list {
 }
-/--TEAM--/
+/*/--TEAM--*/
 .team {
 background-color: #F4F4FD 
 }
@@ -196,7 +196,7 @@ letter-spacing: 0.02em;
 color: #434455;
 background-color: #FFFFFF
 }
-/--FOOTER--/
+/*/--FOOTER--*/
 .footer {
 background-color: var(--background-color)
 }
@@ -212,9 +212,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4D5AE5; 
 cursor: pointer;
-
 }
-
 .footer-navigation-main {
 font-family: 'Raleway', sans-serif;
 font-style: normal;
@@ -227,7 +225,6 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#F4F4FD;
 cursor: pointer;
-
 }
 .footer-text {
  font-weight: 400;
@@ -236,16 +233,14 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #F4F4FD;
 cursor: pointer;
-
 }
-/--PORTFOLIO--/
-/--NOVIGATION--/
+/*/--PORTFOLIO--*/
+/*/--NOVIGATION--*/
 .novigation {
  background-color: #E5E5E5;
 }
 .novigation-list {
 }
-
 .novigation-btn {
     font-family: 'Roboto',sans-serif;
     font-style: normal;
@@ -290,4 +285,3 @@ color: var(--main-title-color);
     letter-spacing: 0.02em;
     color: #434455;
 }
-
