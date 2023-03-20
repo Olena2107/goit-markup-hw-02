@@ -1,7 +1,7 @@
 :root {
     --main-title-color: #2e2f42;
     --background-color:#2E2F42;
-    --ocean-bgc-hover-focus-active-color:#404BBF;
+    --ocean-bgc-hover-focus-active-color:#404bbF;
     --second-title-color: #FFFFFF;
     --gray-title-color: #434455;
     --milk-title-color: #F4F4FD;
@@ -120,7 +120,7 @@ background-color:var(--background-color);
 background-color: var(--ocean-bgc-hover-focus-active-color);
 }
 .hero-btn:focus {
-background-color:var(--ocean-bgc-hover-focus-active-color)
+background-color:var(--ocean-bgc-hover-focus-active-color);
 }
 
 /*/--ABOUT--*/
